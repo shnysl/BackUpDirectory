@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "adNumber": "http://localhost:8080/ilan_detay/1",
+            "offer": 0
+        },
+        {
+            "id": 2,
+            "adNumber": "http://localhost:8080/ilan_detay/2",
+            "offer": 0
+        },
+        {
+            "id": 3,
+            "adNumber": "http://localhost:8080/ilan_detay/3",
+            "offer": 0
+        },
+        {
+            "id": 4,
+            "adNumber": "http://localhost:8080/ilan_detay/4",
+            "offer": 0
+        },
+        {
+            "id": 5,
+            "eadNumber": "http://localhost:8080/ilan_detay/5",
+            "offer": 0
+        }
+    ]
+}
